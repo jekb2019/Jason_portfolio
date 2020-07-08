@@ -1,0 +1,15 @@
+/* Temporary start*/
+#logo__image{
+    height: 50px;
+    width: 50px;
+}
+#home__avatar{
+    height: 200px;
+    width: 200px;
+}
+/* Temporary end*/
+
+*{
+    margin:0;
+    padding:0;
+}
